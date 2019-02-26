@@ -1,0 +1,14 @@
+@import "base.css";
+
+.header {
+  font-family: 'iconfont';
+  width: 100%;
+  background: #fff;
+
+  .wrapper {
+    display: table;
+    table-layout: fixed;
+    height: 100%;
+    width: 100%;
+  }
+}

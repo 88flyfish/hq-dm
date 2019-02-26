@@ -1,0 +1,19 @@
+.nav-normal {
+    width: 13vw;
+    transition: width 0.5s;
+    -moz-transition: width 0.5s;
+    /* Firefox 4 */
+    -webkit-transition: width 0.5s;
+    /* Safari 和 Chrome */
+    -o-transition: width 0.5s;
+    /* Opera */
+}
+
+.nav-folded {
+    width: 50px;
+    /* 导航栏折叠后的宽度 */
+}
+
+.header {
+    height: 60px;
+}
